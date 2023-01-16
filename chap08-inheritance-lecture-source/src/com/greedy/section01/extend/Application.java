@@ -37,7 +37,7 @@ public class Application {
 		car.soundHorn();
 		car.stop();
 		car.soundHorn();
-//		car.spratWater()hjhjhjhjhjhjhjhjh;
+//		car.spratWater();
 		
 		FireCar fireCar = new FireCar();
 		fireCar.soundHorn();
